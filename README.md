@@ -48,7 +48,10 @@ Esame_20-01-2026/
 │   └── view.py (DA MODIFICARE)
 │
 ├── requirements.txt
+├── Guida esame in laboratorio v01.pdf
 ├── plot.png
+├── test_model.png
+├── README.md
 ├── iTunes.sql (DA IMPORTARE)
 └── main.py (DA ESEGUIRE)
  ```
